@@ -15,10 +15,26 @@
 
 To be completed
 
+### Requirements
+
+<ul>
+<li>
+Docker </li>
+</ul>
+
+###  Docker Setup
+Building docker image in your terminal
+
+    docker build -t rust_docker .
+
+To run the Docker image, execute the following command:
+
+    docker run -it --rm --name my-running-app rust_docker
+
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I am trying to have a dip into the devops 
+For this project, I am trying to document my journey in dipping into the devops world
 
 You can also read up on my DevOps experience in Medium https://medium.com/@watertreader/dip-into-devops-world-9ad96f8ec774
 
@@ -38,4 +54,4 @@ It has been a "siong" journey!
 
 All rights reserved
 
-All source code and software in this repository are made available under the terms of the GPU license.
+All source code and software in this repository are made available under the terms of the GNU license.
