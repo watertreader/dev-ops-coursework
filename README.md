@@ -30,9 +30,9 @@ You can also read up on my DevOps experience in Medium https://medium.com/@water
 
 ## Acknowledgements <a name="acknowedgement"></a>
 
-Thanks to Uli Hiztel, my instructor and NUS Advanced Computing Center and of course, my company ST Engineering Defence Aviation Services for sponsoring the course
+Thanks to Uli Hiztel, my instructor and NUS Advanced Computing for Executive Center and of course, my company, ST Engineering Defence Aviation Services for sponsoring the course
 
-It has been a "siong" journey
+It has been a "siong" journey!
 
 ## Licensing <a name="licensing"></a>
 
