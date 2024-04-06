@@ -1,6 +1,4 @@
-#DevOps_tutorial
-
-DevOps_tutorial
+ <p align="center" style="color:blue;font-size:65px;">DevOps_tutorial</p>
 
 Table of Contents
 
