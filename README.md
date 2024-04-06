@@ -20,7 +20,7 @@ To be completed
 
 For this project, I am trying to have a dip into the devops 
 
-You can also read up on my experience in Medium https://medium.com/@watertreader/dip-into-devops-world-9ad96f8ec774
+You can also read up on my DevOps experience in Medium https://medium.com/@watertreader/dip-into-devops-world-9ad96f8ec774
 
 
 ## File Descriptions <a name="files"></a>
