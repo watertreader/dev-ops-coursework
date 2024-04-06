@@ -11,10 +11,9 @@ Table of Contents
 
 Installation
 
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*. All other libraries needed is declared within the file
+To be completed
 
-If you are using firefox browser, checkout this Firefox plugin. Python Notebook Viewer.
 
-This plugin lets you view/render python notebooks without running notebook server. Once installed, set Firefox as default app to open ipynb files. From now onwards, you can simply open ipynb files by simply double clicking on it!
+## Project Motivation<a name="motivation"></a>
 
-Or else you can run google colab and upload this python notebook
+For this project, I am trying to have a dip into the devops 
