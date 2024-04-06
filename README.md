@@ -1,6 +1,6 @@
 
   <p align="center"><img src="juggle.png" /></p>
- <p align="center" style="color:blue;font-size:65px;">DevOps_tutorial</p>
+# <p align="center" style="color:blue;font-size:65px;">DevOps_tutorial</p> #
 
 ## Table of Contents
 
